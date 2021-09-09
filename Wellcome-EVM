@@ -1,0 +1,7 @@
+# Ruwan_EVM
+Project of design and implementation of EVM (Electronic Voting Machine) using Microcontroller.
+
+Hello all! This is to build up EVM, using Microcontrollers, simple design as an Embedded system.
+Users can vote in digital manner, which is highly effective, as an low cost product.
+Modules are distributed among you dividing basic parts.
+4-bit Adder and 4by1 Mux modules are created.
